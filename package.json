@@ -20,6 +20,6 @@
     "eslint-plugin-promise": "5.2.0",
     "npm-check": "5.9.2",
     "prettier": "2.6.2",
-    "vite": "2.9.1"
+    "vite": "2.9.5"
   }
 }
